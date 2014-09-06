@@ -1,0 +1,13 @@
+body{
+    background-color: green;
+}
+img{
+    height: 100%;
+}
+.text{
+    display: block;
+}
+#googleMap{
+    width: 100%;
+    height: 480px;
+}
